@@ -135,7 +135,7 @@ a{
     font-size: 24px;
     text-align: center;
     cursor: pointer;
-    outline: none;
+    /*outline: none;*/
     color: #fff;
     background-color: #f00;
     border: 1px #500 solid;
