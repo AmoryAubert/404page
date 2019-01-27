@@ -143,12 +143,12 @@ a{
     box-shadow: 0 5px #600;
     position: relative;
     bottom: 10px;
+    -webkit-transition: 3s;
+    transition: 3s;
 }
 a:hover{
     bottom: 0;
     box-shadow: 0 0 #600;
-    -webkit-transition: 3s;
-    transition: 3s;
 }
 #btn{
     margin-top: 50px;
