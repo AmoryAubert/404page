@@ -140,13 +140,13 @@ a{
     background-color: #f00;
     border: 1px #500 solid;
     border-radius: 50%;
-    box-shadow: 0 5px #999;
+    box-shadow: 0 5px #600;
     position: relative;
     bottom: 10px;
 }
 a:hover{
     bottom: 0;
-    box-shadow: 0 0 #999;
+    box-shadow: 0 0 #600;
     -webkit-transition: 3s;
     transition: 3s;
 }
